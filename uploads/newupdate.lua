@@ -12,6 +12,13 @@ local ScriptConfig = {
         }
     },
     {
+        Name = "Reign Script",
+        Url = 'https://raw.githubusercontent.com/zazazawX/SSS/main/uploads/lumedev_reign.lua',
+        Ids = {
+            78466992256287,
+        }
+    },
+    {
         Name = "Volt Script",
         Url = 'https://raw.githubusercontent.com/zazazawX/SSS/main/uploads/lumedev_volt.lua',
         Ids = {
@@ -43,5 +50,6 @@ local function RunScriptByMap()
         print("กำลังรันสคริปต์พื้นฐาน (Universal Script)...")
     end
 end
+
 
 RunScriptByMap()
