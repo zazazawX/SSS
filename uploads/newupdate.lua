@@ -18,13 +18,6 @@ local ScriptConfig = {
             78466992256287,
         }
     },
-    {
-        Name = "Volt Script",
-        Url = 'https://raw.githubusercontent.com/zazazawX/SSS/main/uploads/lumedev_volt.lua',
-        Ids = {
-            86730176697132,
-        }
-    },
 }
 
 
@@ -53,3 +46,4 @@ end
 
 
 RunScriptByMap()
+
