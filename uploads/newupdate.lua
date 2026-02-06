@@ -18,6 +18,14 @@ local ScriptConfig = {
             78466992256287,
         }
     },
+    {
+        Name = "Rogue Script",
+        Url = 'https://raw.githubusercontent.com/zazazawX/SSS/main/uploads/lumedev_rogue.lua',
+        Ids = {
+            96105075537655,
+            84988808589910,
+        }
+    },
 }
 
 
@@ -46,4 +54,5 @@ end
 
 
 RunScriptByMap()
+
 
